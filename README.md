@@ -6,7 +6,7 @@ In the YAML file, add a new line (in alphabetical order) of the subdomain with t
 
 So for wiki https://example.miraheze.org/:
 ```
-  example: true
+example: true
 ```
 
 # Add new custom domains
@@ -14,5 +14,5 @@ In the YAML file, add a new line (in alphabetical order) of the subdomain with t
 
 For wiki https://example.org/ with original subdomain https://example.miraheze.org/:
 ```
-  example: 'example.org'
+example: 'example.org'
 ```
