@@ -278,7 +278,7 @@ wikibooks: true
 wikicanada: true
 wikicervantes: true
 wikidolphinhansen: true
-wikiescola: true
+wikiescola: 'wikiescola.com.br'
 wikihoyo: true
 wikikaisaga: 'wiki.kaisaga.com'
 wikinicus: true
