@@ -116,6 +116,7 @@ gen: true
 gnc: true
 grandtheftwiki: true
 grandtheftauto: true
+grdarchive: true
 gtnh: true
 gze: true
 hamfem: true
