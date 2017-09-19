@@ -225,6 +225,7 @@ partup: true
 patch153: true
 pbm: true
 permanentfuturelab: 'permanentfuturelab.wiki'
+petctviewer: true
 pfsolutions: true
 pgnwiki: true
 plasticssongcontest: true
