@@ -62,7 +62,7 @@ ciso: true
 civitas: true
 clementsworldbuilding: true
 clicordi: true
-clonedeploy: true
+clonedeploy: 'wiki.clonedeploy.org'
 cnv: true
 cogitopedie: true
 conquestofparadiserp: true
