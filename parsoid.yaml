@@ -212,7 +212,7 @@ nvc: true
 nwp: true
 nxwiki: true
 nychousingwiki: true
-oecumene: true
+oecumene: 'oecumene.wiki'
 ofthevampire: true
 oncproject: true
 oolawiki: true
