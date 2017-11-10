@@ -41,7 +41,7 @@ bigforest: true
 bisk: true
 bmed: true
 bnet: true
-bonobowiki: true
+bonobo: true
 boulderwiki: 'boulderwiki.org'
 bpa: true
 braindump: true
@@ -260,6 +260,7 @@ safiria: true
 saharinspace: true
 savagewiki: 'savage-wiki.com'
 scruffy: true
+sdiy: true
 sea: true
 seldir: true
 seton: true
