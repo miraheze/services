@@ -129,7 +129,6 @@ grdarchive: true
 gtnh: true
 gze: true
 hamfem: true
-hellointernet: true
 hftqms: true
 historiaalternativa: true
 hjelpemidler: true
@@ -241,6 +240,7 @@ petctviewer: true
 pfsolutions: true
 pgnwiki: true
 plasticssongcontest: true
+podpedia: true
 politics: true
 pq: true
 prfmuk: true
