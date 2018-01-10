@@ -135,6 +135,7 @@ grdarchive: true
 gtnh: true
 gze: true
 hamfem: true
+healthvector: true
 hftqms: true
 historiaalternativa: true
 hjelpemidler: true
