@@ -259,7 +259,7 @@ petctviewer: true
 pfsolutions: true
 pgnwiki: true
 plasticssongcontest: true
-plnonbinary: true
+plnonbinary: 'pl.nonbinary.wiki'
 podpedia: true
 politics: true
 pq: true
