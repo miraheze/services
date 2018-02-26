@@ -20,7 +20,6 @@ allbanks2: true
 allthetropes: 'allthetropes.org'
 alternatehistory: true
 alwiki: 'www.alwiki.net'
-animationmoviewiki: true
 apneuvereniging: true
 apps: true
 arefepva: true
@@ -33,7 +32,6 @@ ayurbooks: true
 balcanopediascharlatanica: true
 bch: true
 betapurple: true
-bettermedia: 'bettermedia.info'
 betternews: true
 bgo: true
 biblicalwiki: true
@@ -41,7 +39,6 @@ biblio: true
 bigforest: true
 bisk: true
 bmed: true
-bnet: true
 bonobo: true
 boulderwiki: 'boulderwiki.org'
 bpa: true
@@ -55,7 +52,6 @@ byblopedia: true
 calexit: true
 calibro: true
 cancer: true
-carelli: true
 carmeigat: true
 carving: 'carving.wiki'
 casuarina: true
@@ -72,8 +68,6 @@ clicordi: true
 clonedeploy: 'wiki.clonedeploy.org'
 cnv: true
 cogitopedie: true
-conquestofparadiserp: true
-coldblooded: true
 corydoctorow: true
 cristianopedia: true
 csnimsbordeaux: true
@@ -83,7 +77,6 @@ cybersecurity: true
 dalar: true
 datachron: true
 detlefs: true
-development: true
 dicfic: true
 dish: true
 dmw: true
@@ -95,12 +88,10 @@ drunkenpeasantswiki: true
 dts: true
 dwplive: 'wiki.dwplive.com'
 earthian: true
-easter: true
 easywiki: true
 edmund: true
 eerstelijnszones: true
 ellersliedemo: true
-ernaehrungsrathh: true
 espiral: 'espiral.org'
 essway: true
 etpo: true
@@ -108,7 +99,6 @@ eva: true
 evelopedia: true
 extload: true
 eyebobs: true
-fablabesds: true
 fantasia: true
 fbwiki: true
 feu: 'froggy.info'
@@ -117,7 +107,6 @@ fishpercolator: true
 fmbv: true
 foodsharinghamburg: true
 frejaeriksson: true
-freeandopen: true
 freestateofjones: true
 ferahistoria: true
 frontdesks: true
@@ -133,7 +122,6 @@ gepacobiodiv: true
 geresbamyan: true
 gnc: true
 gontran: true
-grandtheftwiki: true
 grandtheftauto: true
 grdarchive: true
 gtnh: true
@@ -144,8 +132,6 @@ healthvector: true
 hftqms: true
 historiaalternativa: true
 hjelpemidler: true
-hktransportpedia: true
-hlptest: true
 hobbies: true
 hshsinfoportal: true
 hsooden: true
@@ -181,10 +167,8 @@ kgb: true
 kinderacic: true
 knowledge: true
 korach: true
-koza: true
 krebs: true
 kstartups: 'wiki.besuccess.com'
-kwiki: true
 lambdawars: true
 lancemedical: true
 lapolitics: true
@@ -207,12 +191,10 @@ maiasongcontest: true
 malaysia: true
 make717: 'wiki.make717.org'
 maktaba: 'en.maktaba.co.in'
-marcoschriek: true
 marinebiodiversitymatrix: 'marinebiodiversitymatrix.org'
 marioserieswiki: true
 medergists: true
 medicina: true
-medlabiso: true
 menufeed: true
 meregos: true
 meta: true
@@ -223,12 +205,10 @@ miningpromies: true
 modelshipreference: true
 modular: true
 mozi: true
-muckhack: true
 musicarchive: true
 musiclibrary: true
 mustafar29: true
 mydegree: true
-mynydd: true
 n2go: true
 nanatsunotaizai: true
 nationsglory: true
@@ -262,18 +242,14 @@ oyeavdelingen: 'oyeavdelingen.org'
 panorama: true
 paodeaoda: true
 r2: true
-patch153: true
 peopleshararam: true
 permanentfuturelab: 'permanentfuturelab.wiki'
 petctviewer: true
 pfsolutions: true
-pgnwiki: true
 plasticssongcontest: true
 plnonbinary: 'pl.nonbinary.wiki'
 podpedia: true
-politics: true
 pq: true
-prfmuk: true
 priyo: true
 prueba: 'es.publictestwiki.com'
 pso2: true
@@ -283,10 +259,8 @@ pythia: true
 qwerty: true
 raspberry: true
 rawdata: true
-raymanspeedrun: true
 revit: true
 rigpaparis: true
-roberts: true
 rootsandlimbs: true
 rs: true
 rwdvolvo: true
@@ -299,7 +273,6 @@ scruffy: true
 sdiy: true
 sea: true
 seldir: true
-seton: true
 serinfhosp: true
 shippingandmeta: true
 showmedicina: true
@@ -345,11 +318,9 @@ touhouengine: true
 trablang: true
 trex: true
 triseptsolutions: true
-trump: true
 trwc: true
 tsponie: true
 tws: true
-tymyrddin: true
 ubrwiki: true
 undisclosed: true
 unikum: true
@@ -372,15 +343,12 @@ wabc: true
 webflow: true
 westmarches: true
 wikibooks: true
-wikicanada: true
 wikicervantes: true
 wikidolphinhansen: true
 wikiescola: 'wikiescola.com.br'
 wikihoyo: true
 wikikaisaga: 'wiki.kaisaga.com'
-wikinicus: true
 wikipuc: 'wikipuk.cl'
-wishcertwiki: 'histories.wiki'
 wisdomsandbox: 'sandbox.wisdomwiki.org'
 wisdom: 'wisdomwiki.org'
 wish: true
