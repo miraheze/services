@@ -1,5 +1,5 @@
-# parsoid
-A repository for storing a freely editable YAML input file for parsoid on Miraheze servers
+# MediaWiki Services
+A repository for storing a freely editable YAML input file for MediaWiki services on Miraheze servers
 
 # Adding new Miraheze wikis
 In the YAML file, add a new line (in alphabetical order) of the subdomain with the value of true.
