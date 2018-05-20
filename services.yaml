@@ -281,7 +281,7 @@ pmav: true
 podpedia: true
 pq: true
 priyo: true
-prnet: true
+prnet: 'wiki.pablojprieto.com.es'
 prueba: 'es.publictestwiki.com'
 pso2: true
 puzzle: true
