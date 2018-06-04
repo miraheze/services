@@ -43,7 +43,6 @@ bisk: true
 blocknet: true
 bmed: true
 bonobo: true
-boulderwiki: 'boulderwiki.org'
 bpa: true
 braindump: true
 breedersofthenephelym: true
@@ -57,12 +56,11 @@ calibro: true
 cancer: true
 cantorij: true
 carmeigat: true
-carving: 'carving.wiki'
 casuarina: true
 cdc: true
 cec: true
 cccp: true
-changemyorg: 'changemy.org'
+changemyorg: true
 chimaera: true
 christipedia: true
 ciso: true
