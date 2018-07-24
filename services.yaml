@@ -320,6 +320,7 @@ sdiy: true
 sea: true
 seldir: true
 serinfhosp: true
+sharingcv: true
 shippingandmeta: true
 shortwiki: true
 showmedicina: true
