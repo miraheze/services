@@ -291,7 +291,7 @@ sidem: true
 sirikot: true
 snowthegame: true
 socrates: true
-songcontests: true
+songcontests: 'sc.songcontests.eu'
 soshomophobie: true
 southparkfan: true
 spiral: 'spiral.wiki'
