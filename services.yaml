@@ -288,6 +288,7 @@ scruffy: true
 sdiy: 'sdiy.info'
 sea: true
 seldir: true
+senpaga: true
 serinfhosp: true
 sharingcv: true
 shippingandmeta: true
