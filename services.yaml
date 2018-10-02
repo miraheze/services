@@ -78,6 +78,7 @@ cogitopedie: true
 commonswiki: true
 communitydirectedsupport: true
 concepts: true
+const: true
 corepedia: true
 corsarius: true
 corydoctorow: true
