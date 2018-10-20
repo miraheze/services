@@ -61,6 +61,7 @@ cccp: true
 cdc: true
 central: true
 changemyorg: true
+checkin: true
 chimaera: true
 christipedia: true
 civclassic: true
