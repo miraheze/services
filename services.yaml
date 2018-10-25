@@ -256,7 +256,7 @@ miningpromies: true
 mnzp: true
 modelshipreference: true
 modular: true
-monarchists: true
+monarchists: 'monarchists.wiki'
 musicarchive: true
 mustafar29: true
 n2go: true
