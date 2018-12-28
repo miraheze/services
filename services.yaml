@@ -91,7 +91,7 @@ cloudconstruct: true
 cmhoc: true
 cnv: true
 codexamica: true
-commonsgyaanipedia: true
+commonsgyaanipedia: 'commons.gyaanipedia.co.in'
 commonswiki: true
 communitydirectedsupport: true
 concepts: true
