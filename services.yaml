@@ -465,7 +465,7 @@ rawdata: true
 renaissance: true
 revit: true
 rigpaparis: true
-ripto: true
+ripto: 'ripto.gq'
 rodcs: true
 rollerderbylille: true
 rontgenwiki: true
