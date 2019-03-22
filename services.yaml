@@ -602,6 +602,7 @@ vorinstanz: true
 voting: true
 vtr: true
 wabc: true
+wakapedia: true
 warapedia: true
 warewiki: true
 warframe: 'wiki.warfra.ml'
