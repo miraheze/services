@@ -587,7 +587,7 @@ ttinfo: true
 twtrain: true
 ubrwiki: true
 ucronias: true
-udcjapan: true
+udcjapan: 'udc-japan.xyz'
 uncyclopedia2: true
 uninspired: true
 universepedia: true
