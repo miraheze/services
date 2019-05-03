@@ -129,7 +129,7 @@ crossoverwiki: true
 csnimsbordeaux: true
 ctfoundry: true
 cuttingroom: true
-cyberlaw: true
+cyberlaw: 'cyberlaw.ccdcoe.org'
 dafqs: true
 dalar: true
 decrypted: 'decrypted.wiki'
