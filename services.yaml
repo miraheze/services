@@ -688,7 +688,7 @@ westparrot: true
 whenobjectsworks: true
 whopper: true
 widestreetsmapsanddrawings: true
-wiesepedia: true
+wiesepedia: 'wiesepedia.ga'
 wikibook: true
 wikicubia: true
 wikidespacito: true
