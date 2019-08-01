@@ -509,6 +509,7 @@ psl631test: true
 publicon: true
 pushups: true
 puzzle: true
+pvz: true
 pwiki: 'pwiki.arkcls.com'
 pyxxl: 'wiki.pyxxl.tk'
 qanat: true
