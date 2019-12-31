@@ -540,7 +540,7 @@ mira: true
 mirawiki: true
 mmartists: true
 mmdsi: true
-mnzp: true
+mnzp: 'wiki.mnzp.xyz'
 modelausparl: true
 modelshipreference: true
 moderaterightpedia: true
