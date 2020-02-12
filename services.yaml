@@ -715,6 +715,7 @@ psl631test: true
 publicon: true
 pushups: true
 puzzle: true
+pvz2: true
 pvzupk: true
 pvz: true
 pwiki: 'pwiki.arkcls.com'
