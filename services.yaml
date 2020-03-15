@@ -432,7 +432,7 @@ iowglossary: true
 ipedia: true
 ipoly: true
 irp: true
-isd: true
+isd: 'planet.isd.dance'
 israelhistory: true
 isvrus: true
 isv: true
