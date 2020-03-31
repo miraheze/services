@@ -361,7 +361,7 @@ horriblevyonderswiki: true
 horridreceptionwikis: true
 hoshishinichi: true
 hotas: true
-housingwiki: true
+housingwiki: 'housing.wiki'
 hp2020: true
 hrfwiki2: true
 hrl: true
