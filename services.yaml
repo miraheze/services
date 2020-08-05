@@ -676,7 +676,7 @@ leacontest: true
 leafcoalition: true
 leagueofnation: true
 learningfriends: true
-lefrenchmelee: true
+lefrenchmelee: 'wiki.lefrenchmelee.fr'
 legrandmessager: true
 lemopedia: true
 lentopedia: true
@@ -821,7 +821,7 @@ mynimo: true
 mypersonal: true
 mystara: true
 mystfalllore: true
-n64: true
+n64: 'n64brew.dev'
 naasgameland: true
 naerdoma: true
 namulive: true
