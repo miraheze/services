@@ -33,7 +33,6 @@ commons: true
 community: true
 concordance: true
 const: true
-cosmos: true
 crp: true
 csydes: true
 cyberneticeye: true
