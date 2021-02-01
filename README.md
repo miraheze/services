@@ -5,17 +5,18 @@ A repository for storing a freely editable YAML input file for MediaWiki service
 Normally, a bot will automatically update the YAML file as needed. In the event of the bot failing follow the steps below:
 
 ### Manually updating YAML
+#### Adding new Miraheze subdomains
 In the YAML file, add a new line (in alphabetical order) of the subdomain with the value of true.
 
-So for wiki https://example.miraheze.org/:
+So for the wiki https://example.miraheze.org/:
 ```
 example: true
 ```
 
-### Add new custom domains
+#### Adding new custom domains
 In the YAML file, add a new line (in alphabetical order) of the subdomain with the value of the custom domain.
 
-For wiki https://example.org/ with original subdomain https://example.miraheze.org/:
+For the wiki https://example.org/ with original subdomain https://example.miraheze.org/:
 ```
 example: 'example.org'
 ```
