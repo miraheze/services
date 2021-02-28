@@ -133,16 +133,11 @@ template: true
 test: 'publictestwiki.com'
 thekingdomsmp: true
 thesciencearchives: true
-theterribletwo: true
 thetriplets: true
-tmerebooted: true
 tomica: true
-touhouwiki: true
 transformers: true
 ucmg: 'arquivo.ucmg.ml'
 umipedia: true
-ungame: true
-unquotable: true
 vanhocviet: true
 vgportdb: true
 vitaepedia: true
@@ -159,7 +154,6 @@ wikihood: true
 wikikids: true
 wikisai: true
 wikiseedarchives: true
-wikitheos: true
 wikitrivia: true
 worldsongcontestgem: true
 yazz: true
