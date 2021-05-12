@@ -28,6 +28,7 @@ commons: true
 concordance: true
 const: true
 cookierun: true
+createswfwiki: true
 crpteam: true
 csydes: true
 deantsawiki: true
