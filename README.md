@@ -1,3 +1,5 @@
+THIS REPO IS NO LONGER USED.
+
 # MediaWiki Services
 A repository for storing a freely editable YAML input file for MediaWiki services on Miraheze servers
 
